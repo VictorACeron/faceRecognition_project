@@ -6,13 +6,13 @@ Atributos de calidad:
 
 
 Diseño de Arquitectura
-![Design](design.png)
+![Design](design.PNG)
 
 
 Capturas de pantallas:
 ![Train](train.png)
 ![ImgSv](imgSaved.png)
-![ImgRec](imgRecognized.png)
+![ImgRec](imgRecognized.PNG)
 
 
 
